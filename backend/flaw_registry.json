@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Social_Engineering_Electricity",
+    "pattern": "URGENT: DISCONNECT ELECTRICITY",
+    "discovered_at": "2026-03-28T10:00:00",
+    "source": "manual-seed"
+  },
+  {
+    "name": "Fake_GST_Invalid_State",
+    "pattern": "99AAAAA0000A1Z5",
+    "discovered_at": "2026-03-28T10:00:00",
+    "source": "manual-seed"
+  }
+]
